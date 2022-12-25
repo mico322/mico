@@ -19,16 +19,14 @@ html{
  
 
 body, html{
-    background: radial-gradient(circle, #ff3f34, #080808);
+     
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .tree{
-    border: 1px solid #d2dae2;
-    background-color: #006266;
-    display: flex;
+         display: flex;
     justify-content: center;
     align-items: center;
 }
@@ -36,7 +34,7 @@ body, html{
 .tree svg {
      
     stroke-width: 1px;
-    stroke: white;
+    stroke: red;
     width: 70%;
     height: 70%; 
 }
