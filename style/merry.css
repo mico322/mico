@@ -16,10 +16,10 @@ html{
 }
 
 
+ 
 
 body, html{
- 
-        background: radial-gradient(circle, white, #8C1818);
+    background: radial-gradient(circle, #ff3f34, #080808);
     display: flex;
     justify-content: center;
     align-items: center;
